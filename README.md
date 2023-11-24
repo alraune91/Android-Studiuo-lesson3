@@ -1,6 +1,6 @@
-<script src="https://gist.github.com/alraune91/Android-Studiuo-lesson3/blob/main/Screenshot_1.png
 
-package com.example.androidstudiossproject3;
+
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
