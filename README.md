@@ -1,3 +1,5 @@
+![Image](https://github.com/alraune91/Android-Studiuo-lesson3/blob/main/Screenshot_1.png)
+CODE:
 package com.example.androidstudiossproject3;
 
 import androidx.appcompat.app.AppCompatActivity;
